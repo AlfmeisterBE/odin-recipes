@@ -1,0 +1,21 @@
+body {
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px 20px;
+}
+
+h1 {
+    font-size: 32px;
+    color:firebrick
+}
+
+h2 {
+    font-size: 24px;
+    color:firebrick;
+    font-style: italic;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
